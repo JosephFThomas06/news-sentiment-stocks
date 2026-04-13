@@ -1,1 +1,1 @@
-# reddit-sentiment-stocks
+# newsapi-sentiment-stocks
